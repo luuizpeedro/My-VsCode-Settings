@@ -1,7 +1,7 @@
 # Minhas configurações no VSCode
 
 ### Vídeo Tutorial:
-Encontre o vídeo em : <a href="https://www.youtube.com/@Whisperingcode"> Whispering Code Channel</a>
+Se Inscreva no meu Canal : <a href="https://www.youtube.com/@Whisperingcode"> Whispering Code Channel</a> Irei postar a configuração lá posteriormente, junto de algumas melhorias.
 
 # Configurações
 Os prints abaixo são das minhas configurações de cursor e fonte.
