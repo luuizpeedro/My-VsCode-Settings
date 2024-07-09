@@ -12,7 +12,7 @@ Nas configurações do VSCode, pesquise por "Cursor" e Defina a animação do cu
 Já a minha fonte e a "JetBrains Mono" Font Family <a href="https://www.jetbrains.com/pt-br/"> Download aqui</a> em 12px size.
 ![Alt text](Screenshot_2.png)
 
-Lista de Estensões
+# Lista de Estensões
 
 Aqui está a lista de extensões que estou usando atualmente (Conforme eu for mudando, irei sempre manter aqui atualizado):
 
