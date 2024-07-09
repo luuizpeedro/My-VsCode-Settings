@@ -42,8 +42,10 @@ As vezes eu uso o <a href="https://github.com/hikarin522/GlassIt-VSC"> Glassit-V
 
 ## Aqui Está minha lista de temas.
 
-1- <a href="https://github.com/sadra1f/minimal-dark-vscode-theme"> Minimal Dark </a> 
+1- <a href="https://github.com/sadra1f/minimal-dark-vscode-theme"> Minimal Dark </a>
+
 2- <a href="https://github.com/primer/github-vscode-theme"> GitHub theme </a> 
+
 3- <a href="https://github.com/Monokai/monokai-pro-vscode"> MonoKai</a> 
 
 # Agradecimentos
